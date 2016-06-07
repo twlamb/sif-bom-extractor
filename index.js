@@ -14,7 +14,8 @@ module.exports = function(filePath, callback) {
             bom.push({
                 basemodel: result.PN,
                 description: result.PD,
-                quantity: result.QT
+                quantity: result.QT,
+                catalog: result.MC
             }); 
         });
         callback(null, bom);
