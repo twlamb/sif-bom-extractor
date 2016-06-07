@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sif-scanner": "^1.0.2"
+    "sif-scanner": "^1.1.0"
   }
 }
