@@ -1,0 +1,14 @@
+{
+  "name": "sif-bom-extractor",
+  "version": "1.0.0",
+  "description": "extracts list of parts and quantity from a sif file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sif-scanner": "^1.0.1"
+  }
+}
